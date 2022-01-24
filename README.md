@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning PHP as I stumble through it.
 - 💞️ I’m not looking to collaborate on anyhting ATM.
-- 📫 How to reach me kezz_in_the_air@hotmail.com
+- 📫 How to reach me kezz@barossachoice.com.au
 
 
 <!---
